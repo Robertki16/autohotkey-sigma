@@ -1,6 +1,6 @@
 # autohotkey-sigma
 
-1. Go to [this link](autohotkey.com/download/ahk-install.exe) to download the installer.
+1. Go to [this link](https://www.autohotkey.com/download/ahk-install.exe) to download the installer.
 2. Run the installer exe file and choose the express install option.
 3. Once installed click the exit option.
 4. Download and extract the code on this page by pressing the "code" dropdown and "Download zip".
